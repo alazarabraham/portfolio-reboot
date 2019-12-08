@@ -1,7 +1,9 @@
+.navbar{
+    background-color: black;
+}
 .skills {
     margin: 0;
-    display: flex;
-    flex-wrap: wrap;
+   
     position: relative;
     
 }
@@ -22,7 +24,7 @@
 {
     position: relative;
     display: inline-block;
-    background: #000000;
+    background: #343434;
     padding: 15px 30px;  
     color: rgb(255, 255, 255);
     text-shadow: 0 1px 4px rgba(0, 0 ,0, .5);
@@ -74,6 +76,8 @@
     box-shadow: 0 2px 20px #fa3333;
 }
 #about{
+    background: black;
+    padding: 50px 0;
 }
 h6{
     position: relative;
