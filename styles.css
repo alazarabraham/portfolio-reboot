@@ -103,7 +103,7 @@ h6 .fire{
     top: 0;
     width: 200px;
     height: 200px;
-    background-repeat: #dc3545!important;
+    background-repeat: #007bff!important;
     transition: 0.5s;
 
 }
@@ -123,13 +123,13 @@ h6 .fire:after{
 }
 h6 .fire:before{
     border-radius: 45%;
-    background: #dc3545!important;
+    background: #007bff!important;
     animation: animate 5s linear infinite;
 }
 
 h6 .fire:after{
     border-radius: 40%;
-    background: #dc3545!important;
+    background: #007bff!important;
     animation: animate 10s linear infinite;
 }
 @keyframes animate{
