@@ -216,3 +216,20 @@ h6 .fire:after{
     width: auto;
     overflow: hidden;
 }
+
+
+.animateh1{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+    color: #007bff;
+    font-size: 2em;
+    font-family: sans-serif;
+    letter-spacing: 0.2em;
+
+}
+
